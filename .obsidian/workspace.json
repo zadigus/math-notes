@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implication truth table.md",
+                "file": "Equivalence truth table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implication truth table"
+              "title": "Equivalence truth table"
             }
           },
           {
@@ -184,9 +184,11 @@
   },
   "active": "87ff8b0153cf6d44",
   "lastOpenFiles": [
+    "Implication truth table.md",
     "Equivalence truth table.md",
     "Modus ponens.md",
-    "Implication truth table.md",
+    "$P/iff Q$.md",
+    "$P",
     "test.md",
     "Welcome.md"
   ]
