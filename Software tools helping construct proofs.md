@@ -1,0 +1,3 @@
+- _Automated theorem provers_ provide "push-button" operation: you give them a proposition and they return either _true_ or _false_ (or, sometimes, _don't know: ran out of time_). Although their reasoning capabilities are still limited, they have matured tremendously in recent decades and are used now in a multitude of settings. Examples of such tools include SAT solvers, SMT solvers, and model checkers.
+    
+- _Proof assistants_ are hybrid tools that automate the more routine aspects of building proofs while depending on human guidance for more difficult aspects. Widely used proof assistants include Isabelle, Agda, Twelf, ACL2, PVS, F*, HOL4, Lean, and Coq, among many others.
